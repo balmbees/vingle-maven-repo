@@ -67,6 +67,19 @@
             </snapshots>
         </repository>
     </repositories>
+    <dependencies>
+        <dependency>
+            <groupId>com.google.android</groupId>
+            <artifactId>android</artifactId>
+            <version>${android.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.android</groupId>
+            <artifactId>support-v4</artifactId>
+            <version>r13</version>
+        </dependency>
+    </dependencies>
     
     
 </project>
