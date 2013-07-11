@@ -29,12 +29,8 @@
     <distributionManagement>
         <repository>
             <id>repo</id>
-            <url>https://github.com/balmbees/vingle-maven-repo/raw/stickygridheaders/master/releases</url>
+            <url>https://github.com/balmbees/vingle-maven-repo/raw/master/projects</url>
         </repository>
-        <snapshotRepository>
-            <id>snapshot-repo</id>
-            <url>https://github.com/balmbees/vingle-maven-repo/raw/stickygridheaders/master/snapshots</url>
-        </snapshotRepository>
     </distributionManagement>
     <build>
         <plugins>
@@ -54,16 +50,8 @@
     </build>
     <repositories>
         <repository>
-            <id>pusher-java-client-mvn-repo</id>
-            <name>Pusher Java Client Library</name>
-            <url>https://raw.github.com/pusher/pusher-java-client/mvn-repo/</url>
-            <!-- Update the following as required -->
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
+            <id>libraries</id>
+            <url>https://github.com/balmbees/vingle-maven-repo/raw/master/libs</url>
         </repository>
     </repositories>
     
@@ -83,7 +71,7 @@
 	<dependency>
 		<groupId>com.actionbarsherlock</groupId>
 		<artifactId>actionbarsherlock</artifactId>
-		<version>4.2.0</version>
+		<version>4.3.1</version>
 		<type>apklib</type>
 	</dependency>
 
