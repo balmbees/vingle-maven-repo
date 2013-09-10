@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.robolectric</groupId>
+  <artifactId>robolectric</artifactId>
+  <versioning>
+    <versions>
+      <version>2.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130910083659</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Sep 10 17:36:59 KST 2013
+robolectric-2.2-SNAPSHOT-jar-with-dependencies.jar>=
+robolectric-2.2-SNAPSHOT-sources.jar>=
+robolectric-2.2-SNAPSHOT.jar>=
+robolectric-2.2-SNAPSHOT.pom>=
