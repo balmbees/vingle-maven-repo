@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.huewu.pla</groupId>
+  <artifactId>pla</artifactId>
+  <version>1.032-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.032-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140507032822</lastUpdated>
+  </versioning>
+</metadata>
